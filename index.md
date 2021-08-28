@@ -15,6 +15,7 @@
 
 ## Dynamic College Website
 ### Link: https://github.com/jiayingxie/seainfo6150-final-project-webapp
+### Go to see the deployment: [https://jiayingxie.github.io/seainfo6150-final-project-webapp]
 + Used HTML, JavaScript and React to construct a dynamic college website that lists graduate programs.
 + Used CSS for styling, responsive and adaptive layouts.
 + Used Fetch API to display data.
