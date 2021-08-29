@@ -6,7 +6,7 @@
 # Projects
 
 ## Online Bookstore
-### Link: git@github.com:jiayingxie/javawebProject.git
+### Link: https://github.com/jiayingxie/javawebProject
 + Developed a full-stack online bookstore project where customers can register, log in and buy books. Bookstore's manager can manage the books' inventory and orders.
 + Used Java, Servlect with IntelliJ IDEA and Tomcat to design the MVC backend.
 + Used HTML/JSP, CSS, JavaScript, AJAX, JSON with Bootstrap, JQuery to design the frontend.
